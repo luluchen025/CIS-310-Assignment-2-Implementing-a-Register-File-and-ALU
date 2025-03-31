@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>Register-file-4bit.dig</elementName>
+      <elementAttributes/>
+      <pos x="400" y="200"/>
+    </visualElement>
+    <visualElement>
+      <elementName>4-bit-ALU.dig</elementName>
+      <elementAttributes/>
+      <pos x="620" y="220"/>
+    </visualElement>
+  </visualElements>
+  <wires/>
+  <measurementOrdering/>
+</circuit>
